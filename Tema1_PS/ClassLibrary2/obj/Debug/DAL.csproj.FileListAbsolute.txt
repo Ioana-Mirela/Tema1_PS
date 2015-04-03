@@ -1,0 +1,23 @@
+D:\30234\ArdeleanIoana\Lab4\app1\ClassLibrary2\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\30234\ArdeleanIoana\Lab4\app1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+D:\30234\ArdeleanIoana\Lab4\app1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+D:\30234\ArdeleanIoana\Lab4\app1\ClassLibrary2\bin\Debug\ClassLibrary3.dll
+D:\30234\ArdeleanIoana\Lab4\app1\ClassLibrary2\bin\Debug\ClassLibrary3.pdb
+D:\30234\ArdeleanIoana\Lab4\app1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+D:\30234\ArdeleanIoana\Lab4\app1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\ClassLibrary2\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\ClassLibrary2\bin\Debug\ClassLibrary3.dll
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\ClassLibrary2\bin\Debug\ClassLibrary3.pdb
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\ClassLibrary2\bin\Debug\MySql.Data.DLL
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\piataAZ\app1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\piataAZ\app1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\piataAZ\app1\ClassLibrary2\bin\Debug\ClassLibrary3.dll
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\piataAZ\app1\ClassLibrary2\bin\Debug\MySql.Data.DLL
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\piataAZ\app1\ClassLibrary2\bin\Debug\ClassLibrary3.pdb
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\piataAZ\app1\ClassLibrary2\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\piataAZ\app1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\piataAZ\app1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

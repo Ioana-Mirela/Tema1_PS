@@ -1,0 +1,9 @@
+D:\30234\ArdeleanIoana\Lab4\app1\app1\obj\x86\Debug\app1.FormLogin.resources
+D:\30234\ArdeleanIoana\Lab4\app1\app1\obj\x86\Debug\app1.Properties.Resources.resources
+D:\30234\ArdeleanIoana\Lab4\app1\app1\obj\x86\Debug\app1.csproj.GenerateResource.Cache
+D:\30234\ArdeleanIoana\Lab4\app1\app1\bin\Debug\app1.exe
+D:\30234\ArdeleanIoana\Lab4\app1\app1\bin\Debug\app1.pdb
+D:\30234\ArdeleanIoana\Lab4\app1\app1\obj\x86\Debug\app1.exe
+D:\30234\ArdeleanIoana\Lab4\app1\app1\obj\x86\Debug\app1.pdb
+D:\30234\ArdeleanIoana\Lab4\app1\app1\obj\x86\Debug\app1.FormAdmin.resources
+D:\30234\ArdeleanIoana\Lab4\app1\app1\obj\x86\Debug\app1.FormUser.resources

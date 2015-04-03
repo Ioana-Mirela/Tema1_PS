@@ -1,0 +1,33 @@
+D:\30234\ArdeleanIoana\Lab4\app1\app1\obj\x86\Debug\3LAYERS.csprojResolveAssemblyReference.cache
+D:\30234\ArdeleanIoana\Lab4\app1\app1\obj\x86\Debug\app1.FormAdmin.resources
+D:\30234\ArdeleanIoana\Lab4\app1\app1\obj\x86\Debug\app1.FormLogin.resources
+D:\30234\ArdeleanIoana\Lab4\app1\app1\obj\x86\Debug\app1.FormUser.resources
+D:\30234\ArdeleanIoana\Lab4\app1\app1\obj\x86\Debug\app1.Properties.Resources.resources
+D:\30234\ArdeleanIoana\Lab4\app1\app1\obj\x86\Debug\3LAYERS.csproj.GenerateResource.Cache
+D:\30234\ArdeleanIoana\Lab4\app1\app1\obj\x86\Debug\app1.exe
+D:\30234\ArdeleanIoana\Lab4\app1\app1\obj\x86\Debug\app1.pdb
+D:\30234\ArdeleanIoana\Lab4\app1\app1\bin\Debug\app1.exe
+D:\30234\ArdeleanIoana\Lab4\app1\app1\bin\Debug\app1.pdb
+D:\30234\ArdeleanIoana\Lab4\app1\app1\bin\Debug\ClassLibrary1.dll
+D:\30234\ArdeleanIoana\Lab4\app1\app1\bin\Debug\ClassLibrary3.dll
+D:\30234\ArdeleanIoana\Lab4\app1\app1\bin\Debug\ClassLibrary2.dll
+D:\30234\ArdeleanIoana\Lab4\app1\app1\bin\Debug\ClassLibrary1.pdb
+D:\30234\ArdeleanIoana\Lab4\app1\app1\bin\Debug\ClassLibrary3.pdb
+D:\30234\ArdeleanIoana\Lab4\app1\app1\bin\Debug\ClassLibrary2.pdb
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\app1\obj\x86\Debug\app1.exe
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\app1\obj\x86\Debug\app1.pdb
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\app1\bin\Debug\app1.exe
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\app1\bin\Debug\app1.pdb
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\app1\bin\Debug\ClassLibrary1.dll
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\app1\bin\Debug\ClassLibrary3.dll
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\app1\bin\Debug\ClassLibrary2.dll
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\app1\bin\Debug\ClassLibrary1.pdb
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\app1\bin\Debug\ClassLibrary3.pdb
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\app1\bin\Debug\ClassLibrary2.pdb
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\app1\obj\x86\Debug\3LAYERS.csprojResolveAssemblyReference.cache
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\app1\obj\x86\Debug\app1.FormAdmin.resources
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\app1\obj\x86\Debug\app1.FormLogin.resources
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\app1\obj\x86\Debug\app1.FormUser.resources
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\app1\obj\x86\Debug\app1.Properties.Resources.resources
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\app1\obj\x86\Debug\3LAYERS.csproj.GenerateResource.Cache
+E:\Facultate\An III\Semestrul 2\PS\Lab\Tema1\Lab4\app1\app1\bin\Debug\MySql.Data.DLL
